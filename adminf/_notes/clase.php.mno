@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta_modulo" value="name:id;datatype:int,name:fecha;datatype:timestamp,name:modulo;datatype:string,name:descripcion;datatype:string" />
+</info>

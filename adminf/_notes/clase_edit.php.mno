@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_video_consulta" value="name:id;datatype:int,name:video;datatype:string,name:titulo;datatype:string,name:contenido;datatype:string,name:autoplay;datatype:int,name:fecha;datatype:timestamp,name:autor;datatype:string" />
+	<infoitem key="UD_clase_consulta" value="name:id;datatype:int,name:video;datatype:string,name:titulo;datatype:string,name:descripcion;datatype:string,name:fecha;datatype:timestamp,name:autor;datatype:string,name:modulo;datatype:int" />
+	<infoitem key="UD_consulta_clase" value="name:id;datatype:int,name:video;datatype:string,name:titulo;datatype:string,name:descripcion;datatype:string,name:fecha;datatype:timestamp,name:autor;datatype:string,name:modulo;datatype:int" />
+</info>

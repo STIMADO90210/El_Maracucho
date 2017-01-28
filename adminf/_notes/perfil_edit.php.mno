@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta_nivel" value="name:id;datatype:int,name:nivel;datatype:string" />
+	<infoitem key="UD_consulta_cargo" value="name:id;datatype:int,name:cargo;datatype:string" />
+	<infoitem key="UD_consulta_usuario" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:clave;datatype:string,name:nivel;datatype:int,name:avatar;datatype:string,name:fecha;datatype:timestamp,name:cargo;datatype:string" />
+	<infoitem key="UD_usuario" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_nivel" value="name:id;datatype:int,name:nivel;datatype:string" />
+</info>

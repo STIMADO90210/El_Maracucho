@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta_album" value="name:id;datatype:int,name:album;datatype:string" />
+	<infoitem key="UD_consulta_foto" value="name:id;datatype:int,name:imagen;datatype:string,name:album;datatype:int" />
+	<infoitem key="UD_consulta_albumcompleto" value="name:id;datatype:int,name:album;datatype:string" />
+</info>

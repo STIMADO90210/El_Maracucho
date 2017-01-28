@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.color-gris{
+	background:#CCC;
+	}
+.color-rojo{
+	background:#F00;
+	}	
+	
+.color-blanco{
+	background:#FFF;
+	}
+	
+.color-azul{
+	background:#00F;
+	}		
+.margenes{
+	padding-left:15px;
+	padding-right:15px;
+	
+	}	
+	
+.letra-amarilla{
+	color:#FF0;
+	
+	}	
+

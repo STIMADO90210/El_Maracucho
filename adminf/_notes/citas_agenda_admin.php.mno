@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_citas" value="name:id;datatype:int,name:id_paciente;datatype:int,name:id_doctor;datatype:int,name:especialidad;datatype:int,name:dia;datatype:int,name:fechacita;datatype:string,name:hora;datatype:string,name:comentario;datatype:string,name:fecha;datatype:timestamp,name:estatus;datatype:int,name:comentario_dr;datatype:string" />
+	<infoitem key="UD_buscar_suario" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int,name:telefono;datatype:string" />
+	<infoitem key="UD_especialidad" value="name:id;datatype:int,name:categoria;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_consulta_blog" value="name:id;datatype:int,name:articulo;datatype:string,name:imagen;datatype:string,name:titulo;datatype:string,name:autor;datatype:string,name:fecha;datatype:timestamp" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario_menu" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_usuario" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_user_menu" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+</info>

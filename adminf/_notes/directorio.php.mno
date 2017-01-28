@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_medico" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_especialidad" value="name:id;datatype:int,name:categoria;datatype:string" />
+	<infoitem key="UD_directorio" value="name:id;datatype:int,name:id_med;datatype:int,name:categoria;datatype:int,name:imagen;datatype:string" />
+	<infoitem key="UD_marcafuncion" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_cat" value="name:id;datatype:int,name:categoria;datatype:string" />
+	<infoitem key="UD_user" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_user_med" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:email;datatype:string,name:nick;datatype:string,name:password;datatype:string,name:imagen;datatype:string,name:nivel;datatype:int" />
+	<infoitem key="UD_hor" value="name:id;datatype:int,name:idmed;datatype:int,name:diasem;datatype:int,name:horaent;datatype:string,name:ampm1;datatype:string,name:horasal;datatype:string,name:ampm2;datatype:string" />
+</info>

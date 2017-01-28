@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_serv" value="name:id;datatype:int,name:servicio;datatype:string,name:descripcion;datatype:string,name:imagen;datatype:string" />
+	<infoitem key="UD_galeria" value="name:id;datatype:int,name:imagen;datatype:string,name:id_serv;datatype:int" />
+</info>
